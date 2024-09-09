@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there I'm Solomon
+<a href="www.linkedin.com/in/solomon-omari-095281172"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**TheSolomonO/TheSolomonO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Solomon, a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
+"My journey in cybersecurity has cultivated a deep passion for the field, and I am now eager to contribute my skills as a Tier 1 Analyst within a Security Operations Center (SOC)."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+
+## Tools
+
+## Certifications
+
+## Projects
+- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
+- Detection Lab
+- SOC Automation Project
