@@ -10,13 +10,13 @@ I’m Solomon, a recent graduate with a profound interest in technology and a de
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com](https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>|
 
 ## Tools
 
 ## Certifications
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main](https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>
+- <a href="https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>
 - Detection Lab
 - SOC Automation Project
