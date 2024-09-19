@@ -11,6 +11,7 @@ I’m Solomon, a recent graduate with a profound interest in technology and a de
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>|
+| OWASP Zap Web Application Vulnerability Scanning and Analysis | <a href="https://google.com">OWASP Zap Web Application Scan Lab</a>|
 
 ## Tools
 
@@ -18,5 +19,5 @@ I’m Solomon, a recent graduate with a profound interest in technology and a de
 
 ## Projects
 - <a href="https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>
-- Detection Lab
+- <a href="https://github.com/TheSolomonO/Intrusion-Detection-Lab">OWASP Zap Web Application Scan Lab</a>
 - SOC Automation Project
