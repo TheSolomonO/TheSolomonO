@@ -1,5 +1,6 @@
 ## Hi there I'm Solomon
 <a href="https://linkedin.com/in/solomon-omari-095281172"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/6337409b-bb54-4957-ac3f-caf3d17523f7/public_url"><img src="https://img.shields.io/badge/-CompTIA Sec+-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
 I’m Solomon, a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
