@@ -10,15 +10,16 @@ I’m Solomon, a recent graduate with a profound interest in technology and a de
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/TheSolomonO/Elastic-Stack-SIEM-Configuration-and-Management">Elastic-Stack-SIEM-Configuration-and-Management</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>|
 | Web Application Vulnerability Scanning and Analysis | <a href="https://github.com/TheSolomonO/OWASP-Zap-Web-Application-Scan-Lab">OWASP-Zap-Web-Application-Scan-Lab</a>|
 
 ## Tools
 
 ## Certifications
+CompTIA Security+ 701
 
 ## Projects
+- <a href="https://github.com/TheSolomonO/Elastic-Stack-SIEM-Configuration-and-Management">Elastic-Stack-SIEM-Configuration-and-Management</a>
 - <a href="https://github.com/TheSolomonO/Intrusion-Detection-Lab">Intrusion-Detection-Lab</a>
 - <a href="https://github.com/TheSolomonO/OWASP-Zap-Web-Application-Scan-Lab">OWASP-Zap-Web-Application-Scan-Lab</a>
-- SOC Automation Project
